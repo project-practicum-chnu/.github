@@ -1,4 +1,4 @@
-Project Practicum 2023
+<b>Project Practicum 2023</b>
 
 Excel spreadsheet with students:
 https://docs.google.com/spreadsheets/d/1Xq92zWw-PBoLQkR0lKB0UUaNcraUOkLykJfvHZK4x88/edit#gid=0
