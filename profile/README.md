@@ -8,3 +8,14 @@ https://docs.google.com/document/d/1LeKEGxYVlz9j12Fi2gdxlT-cfzcnMsIbNAPOcHB1hRc/
 
  For Folder task:
  https://drive.google.com/drive/folders/1WP635pQUVv9j7hElFwZ6x1upWJ7dxVqf?usp=sharing
+
+
+**Проектний практикум**
+ 
+Завдання 
+- Розділення на команди за уподобаннями технологій програмування та виконання ролей бізнес-аналітика (product owner), scrum- мастера, team-leader, developers, QA engeneer(s).
+- Для кожної команди обрати тематику проекту із запропонованого списку або свій варіант. Свій варіант узгодити з керівником.
+- Створити дошку завдань на github та репозиторій проекту.
+- Sprint planning
+- Розробка UML–діаграм різного рівня.
+- Супроводження документацією у вигляді User Stories та загального SRS.
